@@ -1,6 +1,6 @@
 <annotation>
     <folder>fullpage</folder>
-    <filename>page1.png</filename>
+    <filename>page2.png</filename>
     <size>
         <width>1353</width>
         <height>745</height>
@@ -43,7 +43,7 @@
             <xmin>150</xmin>
             <ymin>190</ymin>
             <xmax>237</xmax>
-            <ymax>177</ymax>
+            <ymax>277</ymax>
         </bndbox>
     </object>
     <object>

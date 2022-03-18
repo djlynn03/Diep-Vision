@@ -45,6 +45,7 @@
             <xmax>92</xmax>
             <ymax>44</ymax>
         </bndbox>
+    </object>
     <object>
         <name>square</name>
         <pose>Unspecified</pose>
@@ -108,19 +109,6 @@
             <ymin>232</ymin>
             <xmax>1272</xmax>
             <ymax>299</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>bullet</name>
-        <pose>Unspecified</pose>
-        <truncated>0</truncated>
-        <occluded>0</occluded>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>1337</xmin>
-            <ymin>43</ymin>
-            <xmax>1353</xmax>
-            <ymax>72</ymax>
         </bndbox>
     </object>
 </annotation>
