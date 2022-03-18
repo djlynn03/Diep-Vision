@@ -1,0 +1,36 @@
+<annotation>
+    <folder>fullpage</folder>
+    <filename>page1.png</filename>
+    <size>
+        <width>1353</width>
+        <height>745</height>
+        <depth>4</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>square</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>186</xmin>
+            <ymin>363</ymin>
+            <xmax>254</xmax>
+            <ymax>200</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>square</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>910</xmin>
+            <ymin>147</ymin>
+            <xmax>975</xmax>
+            <ymax>205</ymax>
+        </bndbox>
+    </object>
+</annotation>
